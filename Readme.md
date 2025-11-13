@@ -1,9 +1,3 @@
-# make_readme.sh
-# Creates README.md that explains Backtracking (formatted, technical)
-
-cat > README.md <<'README'
-# Backtracking — README
-
 ## Overview
 Backtracking is a controlled form of recursion used to build solutions incrementally and abandon a solution ("backtrack") as soon as it is clear that it cannot lead to a valid complete solution.  
 It is often considered a sub-field of recursion and relates closely to Dynamic Programming and Divide & Conquer approaches.
