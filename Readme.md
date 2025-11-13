@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # make_readme.sh
 # Creates README.md that explains Backtracking (formatted, technical)
 
