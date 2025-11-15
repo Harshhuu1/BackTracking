@@ -60,3 +60,4 @@ function backtrack(state, depth):
         if is_valid(state):
             backtrack(state, depth + 1)
         undo(state, choice)
+
